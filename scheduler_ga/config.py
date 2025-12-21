@@ -21,8 +21,9 @@ GA_MUTATION_RATE = 0.15   # Xác suất đột biến
 GA_ELITISM_COUNT = 5     # Số cá thể tốt nhất được giữ nguyên sang thế hệ sau
 
 # Dùng cho PSO để so sánh với GA
-PSO_SWARM_SIZE = 50
-PSO_ITERATIONS = 100
+PSO_SWARM_SIZE = 60
+PSO_ITERATIONS = 500
 PSO_W = 0.7
 PSO_C1 = 2.0
+
 PSO_C2 = 2.0
