@@ -1,0 +1,11 @@
+# Hỗ trợ tính toán toán học và mảng cho GA/PSO
+numpy>=1.24.0
+
+# Thư viện giao diện (Dựa trên cấu trúc ui/gui.py)
+customtkinter>=5.2.0
+
+# Xử lý dữ liệu
+pandas>=2.0.0
+
+# Tiện ích bổ sung (nếu có vẽ biểu đồ so sánh GA/PSO)
+matplotlib>=3.7.0
